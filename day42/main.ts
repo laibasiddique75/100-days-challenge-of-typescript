@@ -6,7 +6,9 @@
 
 // Q no 131
 
-let 
+let myName = "laiba";
+console.log(myName);
+
 
 
 

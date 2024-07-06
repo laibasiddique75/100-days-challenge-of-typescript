@@ -1,8 +1,7 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.add = void 0;
 // Q no 130
-var add = function (a, b) {
-    return a + b;
-};
-exports.add = add;
+//  export let add = function(a,b){
+//     return a+b
+//  }
+// Q no 131
+var myName = "laiba";
+console.log(myName);
