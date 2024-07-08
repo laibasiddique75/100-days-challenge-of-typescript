@@ -20,22 +20,24 @@
 
 
 // Q no 129
-let traditionalVsArrow = {
-    value: "traditionalVsArrow value" ,
-    traditionalFunction : function(){
-console.log(" Traditional function",this.value);
+// let traditionalVsArrow = {
+//     value: "traditionalVsArrow value" ,
+//     traditionalFunction : function(){
+// console.log(" Traditional function",this.value);
 
-    },
-    arrowFunction : () => {
-        console.log(" Arrow function",this.value);
+//     },
+//     arrowFunction : () => {
+//         console.log(" Arrow function",this.value);
         
-    },
-};
+//     },
+// };
 
-traditionalVsArrow.traditionalFunction();
-traditionalVsArrow.arrowFunction();
+// traditionalVsArrow.traditionalFunction();
+// traditionalVsArrow.arrowFunction();
 
 
+// let name = "hii zeeshan";
+// console.log(name);
 
 
 

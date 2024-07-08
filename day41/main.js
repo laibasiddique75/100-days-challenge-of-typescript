@@ -1,5 +1,4 @@
 // Q no 127
-var _this = this;
 // let traditionalFunction = function(name: string): string {
 //     return `Hello, ${name}!`;
 // };
@@ -10,14 +9,16 @@ var _this = this;
 // let multipleParameters = (...numbers:number[])=> numbers.reduce((total,number) => total * number,1);
 // console.log(multipleParameters(17,28,0));
 // Q no 129
-var traditionalVsArrow = {
-    value: "traditionalVsArrow value",
-    traditionalFunction: function () {
-        console.log(" Traditional function", this.value);
-    },
-    arrowFunction: function () {
-        console.log(" Arrow function", _this.value);
-    },
-};
-traditionalVsArrow.traditionalFunction();
-traditionalVsArrow.arrowFunction();
+// let traditionalVsArrow = {
+//     value: "traditionalVsArrow value" ,
+//     traditionalFunction : function(){
+// console.log(" Traditional function",this.value);
+//     },
+//     arrowFunction : () => {
+//         console.log(" Arrow function",this.value);
+//     },
+// };
+// traditionalVsArrow.traditionalFunction();
+// traditionalVsArrow.arrowFunction();
+// let name = "hii zeeshan";
+// console.log(name);
