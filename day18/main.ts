@@ -36,5 +36,7 @@ console.log(usersCoices);
 
 
 
+let myNum = 17;
+console.log(myNum);
 
 

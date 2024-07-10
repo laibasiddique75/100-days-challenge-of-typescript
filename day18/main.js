@@ -24,3 +24,5 @@ function createObjectKey(key, value) {
 }
 var usersCoices = createObjectKey("theme", "dark");
 console.log(usersCoices);
+var myNum = 17;
+console.log(myNum);
