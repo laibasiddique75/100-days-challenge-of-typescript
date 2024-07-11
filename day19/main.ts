@@ -16,3 +16,11 @@ console.log(stringArray);
 let grades = [ 1,2,3];
 let averageGrade = grades.reduce((total,grade) => total+ grade,0) / grades.length
 console.log(averageGrade);
+
+
+
+
+
+// let grades = [2,3,4];
+// let averageGrade = grades.reduce((total,grade) => total +grade,0) / grades.length;
+// console.log(averageGrade);
