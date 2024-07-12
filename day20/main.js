@@ -27,3 +27,5 @@ var userProfile = (function () {
     };
 })();
 userProfile.displayInfo();
+var myClr = "green";
+console.log(myClr);

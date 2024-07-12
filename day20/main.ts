@@ -38,4 +38,7 @@ return {
 userProfile.displayInfo();
 
 
+let myClr = "green";
+
+console.log(myClr);
 
