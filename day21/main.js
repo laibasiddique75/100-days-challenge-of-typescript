@@ -22,3 +22,5 @@ var reactangle = {
 };
 console.log(circle);
 console.log(reactangle);
+var dice = 6;
+console.log(dice);

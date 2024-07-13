@@ -51,6 +51,8 @@ console.log(circle);
 console.log(reactangle);
 
 
+let dice = 6;
+console.log(dice);
 
 
 
