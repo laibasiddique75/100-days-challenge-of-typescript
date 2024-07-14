@@ -19,15 +19,19 @@ console.log(remainder(7,5));
 
 // Q no 66
 
+// function valueCheck(value1:boolean,value2:boolean){
+// return value1 && value2
+// }
+
+// console.log(valueCheck(true,false));
+
+
+
 function valueCheck(value1:boolean,value2:boolean){
-return value1 && value2
-}
-
-console.log(valueCheck(true,false));
-
-
-
-
+    return value1 && value2
+    }
+    
+    console.log(valueCheck(true,false));
 
 
 
