@@ -26,16 +26,5 @@
 //     console.log(`After division: ${x}`);
 // }
 // compoundOperators();
-function compoundOperators() {
-    var x = 4;
-    console.log("Initial x : ".concat(x));
-    x += 2;
-    console.log("After addition: ".concat(x));
-    x -= 4;
-    console.log("After substraction : ".concat(x));
-    x *= 5;
-    console.log("After multiplication: ".concat(x));
-    x /= 7;
-    console.log("After division: ".concat(x));
-}
-compoundOperators();
+var myNum = 17;
+console.log(myNum);

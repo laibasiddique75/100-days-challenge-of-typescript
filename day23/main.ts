@@ -50,26 +50,5 @@
 // }
 // compoundOperators();
 
-function compoundOperators(){
-    let x = 4;
-
-    console.log(`Initial x : ${x}`);
-
-    x += 2;
-
-    console.log(`After addition: ${x}`);
-
-    x -= 4;
-
-    console.log(`After substraction : ${x}`);
-
-    x *= 5;
-    
-    console.log(`After multiplication: ${x}`);
-
-    x /= 7;
-    console.log(`After division: ${x}`);
-
-    
-}
-compoundOperators();
+let myNum = 17;
+console.log(myNum);
