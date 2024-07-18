@@ -25,6 +25,20 @@
  
 // Q no 81
 
+// function logObjectProperties(obj: object): void {
+
+//     for (const [key, value] of Object.entries(obj)) {
+//         console.log(`${key}: ${value}`);}}
+
+//         const exampleObject = {
+//             name: "John",
+//             age: 30,
+//             occupation: "Engineer"
+//         };
+//         logObjectProperties(exampleObject);
+
+
+
 function logObjectProperties(obj: object): void {
 
     for (const [key, value] of Object.entries(obj)) {
@@ -36,7 +50,6 @@ function logObjectProperties(obj: object): void {
             occupation: "Engineer"
         };
         logObjectProperties(exampleObject);
-
 
 
 
