@@ -21,12 +21,19 @@
 
 // Q no 84
 
+// function replaceJavascriptWithTypescript(sentence:string):string{
+// return sentence.replace(/javascript/g,"Typescript");
+// }
+
+// console.log(replaceJavascriptWithTypescript("I Love javascript and it is awesome"));
+
+
+
+
 function replaceJavascriptWithTypescript(sentence:string):string{
-return sentence.replace(/javascript/g,"Typescript");
-}
-
-console.log(replaceJavascriptWithTypescript("I Love javascript and it is awesome"));
-
-
-
-
+    return sentence.replace(/javascript/g,"Typescript");
+    }
+    
+    console.log(replaceJavascriptWithTypescript("I Love javascript and it is awesome"));
+    
+    
