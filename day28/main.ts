@@ -23,6 +23,11 @@
 
 
 
+function firstTenCharacters(str:string):string{
+    return str.substring(0,10);
+}
+
+console.log(firstTenCharacters("Hello coders"));
 
 
 
