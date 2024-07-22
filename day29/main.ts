@@ -24,6 +24,23 @@
 
 // Q no 93
 
+// function fruit(fruits:string[]){
+//     const index = fruits.indexOf("Banana");
+
+//     if(index !== -1) fruits[index] = "Mango";
+// }
+
+// const frt :string[] = ["Apple","banana","Orange"];
+
+// console.log(frt);
+
+
+
+
+
+// console.log(frt);
+
+
 function fruit(fruits:string[]){
     const index = fruits.indexOf("Banana");
 
@@ -39,7 +56,6 @@ console.log(frt);
 
 
 console.log(frt);
-
 
 
 
