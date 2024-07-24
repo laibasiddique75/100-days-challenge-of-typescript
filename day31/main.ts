@@ -24,7 +24,18 @@
 
 // console.log(newYear()+ "remaing days");
 
-// Q no 99
+// // Q no 99
+
+// function birthDay(month:number,day:number){
+//     let date = new Date()
+//     let birthday =  new Date(date.getFullYear(),month + 1,day)
+//     return birthday
+// }
+//  console.log(birthDay(6,18));
+ 
+
+
+
 
 function birthDay(month:number,day:number){
     let date = new Date()
@@ -32,4 +43,3 @@ function birthDay(month:number,day:number){
     return birthday
 }
  console.log(birthDay(6,18));
- 
