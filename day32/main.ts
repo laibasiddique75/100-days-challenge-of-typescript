@@ -21,11 +21,15 @@ console.log(generateInteger());
 
 // Q no 102
 
+// let  num : number = Math.abs(-10 - 10);
+
+// console.log(num);
+
+
+
+
 let  num : number = Math.abs(-10 - 10);
 
 console.log(num);
-
-
-
 
 
