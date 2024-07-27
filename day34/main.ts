@@ -24,6 +24,16 @@
 
 // Q no 108
 
+// function stringCaseSensitive(str1: string, str2: string): boolean {
+//     return str1.toLowerCase() === str2.toLowerCase();
+// }
+
+
+// console.log(stringCaseSensitive("HELLO","hello"));
+// console.log(stringCaseSensitive("ZEESHAN","zeeshan"));
+
+
+
 function stringCaseSensitive(str1: string, str2: string): boolean {
     return str1.toLowerCase() === str2.toLowerCase();
 }
@@ -31,7 +41,6 @@ function stringCaseSensitive(str1: string, str2: string): boolean {
 
 console.log(stringCaseSensitive("HELLO","hello"));
 console.log(stringCaseSensitive("ZEESHAN","zeeshan"));
-
 
     
 
