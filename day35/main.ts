@@ -46,6 +46,28 @@
 
 
 
+// function getAgeGroup(age) {
+//     if (age >= 0 && age <= 12) {
+//         return 'Child';
+//     } else if (age >= 13 && age <= 19) {
+//         return 'Teenager';
+//     } else if (age >= 20 && age <= 64) {
+//         return 'Adult';}
+//         else{
+//             'Invalid age'
+//         }
+//     }
+
+
+
+// console.log(getAgeGroup(11));
+// console.log(getAgeGroup(18));
+// console.log(getAgeGroup(60));
+
+
+
+
+
 function getAgeGroup(age) {
     if (age >= 0 && age <= 12) {
         return 'Child';
@@ -63,9 +85,6 @@ function getAgeGroup(age) {
 console.log(getAgeGroup(11));
 console.log(getAgeGroup(18));
 console.log(getAgeGroup(60));
-
-
-
 
 
 
