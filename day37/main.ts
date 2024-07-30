@@ -108,3 +108,41 @@
 
 
 
+
+
+
+function evaluateExpression(input: any) {
+    switch (typeof input) {
+        case 'string':
+            console.log(`The input is a string: "${input}"`);
+            break;
+        case 'number':
+            console.log(`The input is a number: ${input}`);
+            break;
+        case 'boolean':
+            console.log(`The input is a boolean: ${input}`);
+            break;
+        case 'object':
+            if (input === null) {
+                console.log("The input is null.");}
+            
+            break;
+        default:
+            console.log("Unknown type case.");
+    }
+}
+
+evaluateExpression("zeeshan");
+evaluateExpression(17);
+evaluateExpression(true)
+
+
+
+
+
+
+
+
+
+
+
