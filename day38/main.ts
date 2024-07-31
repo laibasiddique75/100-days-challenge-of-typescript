@@ -17,14 +17,18 @@
 // }
 
 // 120
+// var arr = ["zeeshan","heavy bike","sports bike"];
+// for(var i=0;i<arr.length;i++){
+// console.log(arr[i]);
+
+// }
+
+
 var arr = ["zeeshan","heavy bike","sports bike"];
 for(var i=0;i<arr.length;i++){
 console.log(arr[i]);
 
 }
-
-
-
 
 
 
