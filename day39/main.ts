@@ -21,6 +21,18 @@
 
 // Q no 123
 
+// let str = "zeeshan";
+// let vowels = "aeiouAEIOU";
+
+// for (let i = 0; i < str.length; i++) {
+//     if (vowels.includes(str[i])) {
+//         console.log(`First vowel found: ${str[i]}`);
+//         break;
+//     }
+// }
+
+
+
 let str = "zeeshan";
 let vowels = "aeiouAEIOU";
 
