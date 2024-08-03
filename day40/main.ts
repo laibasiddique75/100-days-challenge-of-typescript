@@ -42,3 +42,20 @@ let myObject = {
 
 }
  myObject.outerMethod();
+
+ 
+let myObject = {
+    property :"janab",
+    outerMethod :function(){
+        console.log(this.property);
+        let innerMethod =() => {
+            console.log(this.property);
+            
+        };
+            
+        
+        innerMethod();
+    },
+
+}
+ myObject.outerMethod();
