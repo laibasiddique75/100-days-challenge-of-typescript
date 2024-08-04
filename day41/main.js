@@ -1,3 +1,4 @@
+"use strict";
 // Q no 127
 // let traditionalFunction = function(name: string): string {
 //     return `Hello, ${name}!`;
